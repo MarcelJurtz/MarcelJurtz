@@ -7,4 +7,4 @@ Hey! Glad you found me. I'm Marcel, live at Lake Constance in Southern Germany a
 * [Strava](https://www.strava.com/athletes/33542098)
 * [Instagram](https://www.instagram.com/marceljurtz/)
 
-Like my work? ![Buy me a coffee!](https://www.buymeacoffee.com/MarcelJurtz)
+Like my work? [Buy me a coffee!](https://www.buymeacoffee.com/MarcelJurtz)
