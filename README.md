@@ -6,6 +6,6 @@ Hey! Glad you found me. I'm Marcel, live at Lake Constance in Southern Germany a
 * [LinkedIn](https://www.linkedin.com/in/marcel-jurtz-302b881b1/)
 * [Strava](https://www.strava.com/athletes/33542098)
 * [Instagram](https://www.instagram.com/marceljurtz/)
-* [Blog](https://www.blog.mjurtz.com) / [Medium](https://medium.com/@jurtzmarcel) / [Dev](https://dev.to/marceljurtz)
+* [Blog](https://www.coding.mjurtz.com) / [Medium](https://medium.com/@jurtzmarcel) / [Dev](https://dev.to/marceljurtz)
 
 Like my work? [Buy me a coffee!](https://www.buymeacoffee.com/MarcelJurtz)
